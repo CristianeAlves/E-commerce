@@ -13,10 +13,3 @@ Requisitos:
 ● Valor total da compra;
 ● Botão para finalizar pedido;
 ● Utilizar o localStorage/sessionStorage para manipular as informações;
-
-Documentos a serem entregues por todos os membros:
-● Arquivos do código (pode ser também zip ou rar);
-● Breve descrição textual individual de como foi estruturado e
-desenvolvido o projeto;
-
-OBS: Ao enviar a atividade, zipar todos os arquivos em uma pasta com o seu nome completo e em letras maiúsculas, seguindo o padrão do ClassRoom.
